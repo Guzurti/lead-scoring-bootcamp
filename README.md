@@ -31,25 +31,14 @@ Agradezco a los autores y la comunidad de Kaggle por poner estos datos a disposi
 1. **Clonar el repositorio:**
 
    ```
-   git clone https://github.com/tuusuario/nombre-repo.git
-   cd nombre-repo
+   git clone https://github.com/Guzurti/lead-scoring-bootcamp.git
+   cd lead-scoring-bootcamp
    ```
-
 2. **Instalar dependencias (recomendado en entorno virtual):**
-
    ```
- **  pip install **
-   pandas
-   numpy
-   matplotlib
-   scikit-learn
-   xgboost
-   imbalanced-learn
-   shap
-   jupyter
+pip install -r requirements.txt```
 
-   ```
-
+*(El archivo `requirements.txt` ya está incluido en este repositorio, con todas las librerías necesarias).*
 
 3. **Ejecutar el notebook** en Jupyter o Visual Studio Code.
 
