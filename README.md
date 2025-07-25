@@ -35,9 +35,9 @@ Agradezco a los autores y la comunidad de Kaggle por poner estos datos a disposi
    cd lead-scoring-bootcamp
    ```
 2. **Instalar dependencias (recomendado en entorno virtual):**
-   ```
-pip install -r requirements.txt```
-
+```
+pip install -r requirements.txt
+```
 *(El archivo `requirements.txt` ya está incluido en este repositorio, con todas las librerías necesarias).*
 
 3. **Ejecutar el notebook** en Jupyter o Visual Studio Code.
