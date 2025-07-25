@@ -38,10 +38,18 @@ Agradezco a los autores y la comunidad de Kaggle por poner estos datos a disposi
 2. **Instalar dependencias (recomendado en entorno virtual):**
 
    ```
-   pip install -r requirements.txt
+ **  pip install **
+   pandas
+   numpy
+   matplotlib
+   scikit-learn
+   xgboost
+   imbalanced-learn
+   shap
+   jupyter
+
    ```
 
-   *(Crea un ****\`\`**** con las librerías usadas: pandas, scikit-learn, xgboost, imbalanced-learn, shap, matplotlib, etc.)*
 
 3. **Ejecutar el notebook** en Jupyter o Visual Studio Code.
 
